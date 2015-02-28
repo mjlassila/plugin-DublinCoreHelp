@@ -38,7 +38,7 @@ $elements = array(
     ),
     array(
         'label' => 'Contributor',
-        'comment' => 'Henkilö tai organisaatio, joka on osallistunut merkittävästi tallenteen tekemiseen, mutta jonka panos on vähäisempi kuin päävastuullisen tekijän. Muu tekijä voi olla esimerkiksi kääntäjä tai kuvittaja. Henkilönimet samassa muodossa kuin Tekijä- kentässäkin eli Sukunimi, Etunimi. Tarvittaessa  kenttää voidaan toistaa.',
+        'comment' => 'Henkilö tai organisaatio, joka on osallistunut merkittävästi tallenteen tekemiseen, mutta jonka panos on vähäisempi kuin päävastuullisen tekijän. Muu tekijä voi olla esimerkiksi kääntäjä tai kuvittaja. Henkilönimet samassa muodossa kuin Tekijä- kentässäkin eli Sukunimi, Etunimi. Tarvittaessa  kenttää voidaan toistaa.',
     ),
     array(
         'label' => 'Date Created',
